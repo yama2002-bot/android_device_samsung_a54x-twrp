@@ -39,7 +39,7 @@ PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,device/samsung/a54x/recove
 ## Device identifier. This must come after all inclusions
 PRODUCT_NAME := twrp_a54x
 PRODUCT_DEVICE := a54x
-PRODUCT_MODEL := SM-A546B
+PRODUCT_MODEL := SM-A546E
 PRODUCT_BRAND := samsung
 PRODUCT_MANUFACTURER := samsung
 PRODUCT_GMS_CLIENTID_BASE := android-samsung
